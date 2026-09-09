@@ -23,7 +23,7 @@ Before starting your assigned tasks, please add your details to this README file
                                |
 | Ashwani Rai   | 2513028    | Frontend
 | Rudraksh Baranwal | 2510112   | Frontend              |
-
+| Anshika Agrawal | 25153124 | Frontend |
 ### Instructions
 
 1. Fork this repository.
